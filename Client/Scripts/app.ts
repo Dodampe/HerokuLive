@@ -1,5 +1,9 @@
-// IIFE -- Immediately Invoked Function Expression
-// AKA -- Anonymous Self-Executing Function
+/*
+File Name : app
+Student Name : Devin Dodampe
+Student ID : 100798520
+Date : April 23, 2022 
+*/
 (function()
 {
     function AuthGuard(): void
@@ -50,9 +54,9 @@
             location.href = "/about";
         });
     
-        $("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
+        $("main").append(`<p id="MainParagraph" class="mt-3">The man, the myth, the Legend.</p>`);
         $("main").append(`<article>
-        <p id="ArticleParagraph" class ="mt-3">This is the Article Paragraph</p>
+        <p id="ArticleParagraph" class ="mt-3">Loving father, husband and friend.</p>
         </article>`);
     }
 

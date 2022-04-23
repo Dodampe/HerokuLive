@@ -1,3 +1,9 @@
+/*
+File Name : authguard
+Student Name : Devin Dodampe
+Student ID : 100798520
+Date : April 23, 2022 
+*/
 "use strict";
 ((function()
 {
